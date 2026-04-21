@@ -1,4 +1,4 @@
-# MCP Server Template with Descope Auth (Python)
+# MCP Server Template with Descope Auth
 
 A simple FastMCP server template for [Render](https://render.com), with full MCP authentication by [Descope](https://descope.com).
 
