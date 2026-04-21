@@ -34,9 +34,9 @@ A simple FastMCP server template for [Render](https://render.com), with full MCP
 
    This is your `DESCOPE_CONFIG_URL`.
 
-> **Note:** Descope issues tokens following Resource Indicators (RFC 8707), as required by the MCP spec. When you're deploying to Render or running locally, you'll need to update the MCP Server URLs section.
+> **Note:** Descope issues tokens following Resource Indicators (RFC 8707), as required by the MCP spec. When you're deploying on Render or running locally, you'll need to update the MCP Server URLs section.
 
-## Deploying to Render
+## Deploying on Render
 
 > Ensure that you've completed the [Descope Setup](#descope-setup) step prior to developing locally, as you'll need your `DESCOPE_CONFIG_URL`.
 
